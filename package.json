@@ -1,6 +1,6 @@
 {
   "name": "aurangzaib-object-oriented-program",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "main": "index.js",
   "type": "module",
   "bin":"main.js",
